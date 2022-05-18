@@ -1,0 +1,14 @@
+{
+  "name": "firebase-import-json-tool",
+  "version": "1.0.0",
+  "description": "To import json to firebase fast and easy",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YW",
+  "license": "ISC",
+  "dependencies": {
+    "firestore-export-import": "^0.17.0"
+  }
+}

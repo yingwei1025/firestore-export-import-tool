@@ -1,0 +1,30 @@
+ {
+  "upcoming-events-db": [{
+      "id": "event1",
+      "region": "Asia",
+      "eventName": "NEPCON",
+      "eventDate": "17/06/22 - 19/06/22",
+      "booth": "",
+      "location": "KL",
+      "country": "Malaysia"
+    },
+    {
+      "id": "event2",
+      "region": "Asia",
+      "eventName": "SNEC",
+      "eventDate": "10/10/22 - 12/10/22",
+      "booth": "N3 - 563",
+      "location": "JB",
+      "country": "Malaysia"
+    },
+    {
+      "id": "event3",
+      "region": "Europe",
+      "eventName": "AUTOMATICA",
+      "eventDate": "08/12/22 - 11/12/22",
+      "booth": "A6 / 318",
+      "location": "Munich",
+      "country": "Germany"
+    }
+  ]
+ }
